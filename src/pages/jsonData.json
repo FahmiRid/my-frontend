@@ -1,0 +1,35 @@
+[
+    {
+        "pageLimit": 20,
+        "dataCount": 4,
+        "continuationToken": "",
+        "btsid": 1,
+        "match": 1440,
+        "field": "trancode",
+        "type": "literal",
+        "category": "Money transfer",
+        "level": 0,
+        "movement": "d"
+    },
+
+
+    {
+        "btsid": 2,
+        "match": 1550,
+        "field": "trancode",
+        "type": "literal",
+        "level": 1,
+        "category": "Money transfer",
+        "movement": "d"
+    },
+
+    {
+        "btsid": 3,
+        "match": 10,
+        "field": "tranid",
+        "type": "literal",
+        "level": 1,
+        "category": "Money transfer",
+        "movement": "d"
+    }
+]
